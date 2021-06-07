@@ -1,0 +1,32 @@
+1. double click HKLMSQLSERVER
+
+2. buat folder di program files yaitu
+
+   Microsoft SQL Server
+
+   buat userloggednya dan everyone (seperti pada gambar) di folder yg telah dibuat
+
+3. cari regedit.exe pada search lalu klik kemudian lanjutkan 
+
+   buat userloged pada registry spt. CLSID dan Microsoft SQL Server (seperti pada gambar)
+
+4. cari secpol.msc pada search lalu klik kemudian lanjutkan
+
+   prosedur seperti pada gambar secpoldotmsc
+
+5. non aktifkan semua anti virus dan firewall
+
+6. pada user features klik semua  features .Net Framework 
+   
+   userfeatures ada di control Panel lalu klik program
+
+7. install sqlserver pada autifikasi buat seperti pada gambar 
+
+
+8. bila telah selesai diinstall dan sukses running semua setting perubahan
+
+   bisa dikembalikan seperti semula terutama dikembalikan pada settingan ke
+
+   administrators bila ingin diperketat kembali
+
+                                   GooD LUCK
