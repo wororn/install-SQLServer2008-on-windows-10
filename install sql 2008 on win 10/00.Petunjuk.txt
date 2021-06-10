@@ -1,4 +1,4 @@
-1. double click HKLMSQLSERVER
+1.  double click HKLMSQLSERVER.reg
 
 2. buat folder di program files yaitu
 
@@ -6,7 +6,7 @@
 
    buat userloggednya dan everyone (seperti pada gambar) di folder yg telah dibuat
 
-3. cari regedit.exe pada search lalu klik kemudian lanjutkan 
+3. cari regedit.exe pada search lalu klik kemudian  lanjutkan 
 
    buat userloged pada registry spt. CLSID dan Microsoft SQL Server (seperti pada gambar)
 
